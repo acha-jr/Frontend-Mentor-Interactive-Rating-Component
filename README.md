@@ -1,7 +1,7 @@
 # Frontend Mentor Interactive Rating Component
 
 # PREVIEW
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/105124616/167268714-ba1cef02-bb8f-409b-a855-a579251c1afe.gif)
+![2022-05-07 20 55 50](https://user-images.githubusercontent.com/105124616/167270038-995ae9e1-8977-45ea-b0de-55014582b8c0.gif)
 
 
 # Challenge from Frontend Mentor

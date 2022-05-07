@@ -1,5 +1,6 @@
 # PREVIEW
-![desktop-preview](https://user-images.githubusercontent.com/104359088/166692141-8d73816a-4f1a-4422-aa95-2bf0530fd22b.jpg)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/105124616/167268714-ba1cef02-bb8f-409b-a855-a579251c1afe.gif)
+
 
 # Challenge from Frontend Mentor
 https://frontendmentor.io/
